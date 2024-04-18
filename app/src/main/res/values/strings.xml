@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HW1-Template</string>
+    <string name="remove_task">Remove task</string>
+</resources>
